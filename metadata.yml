@@ -1,0 +1,12 @@
+---
+:id: 319263450
+:submitters:
+- :name: Irakli Eradze
+  :email: ieradze@asu.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2025-03-22 23:42:52.086429000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2025-03-22 16:42:52.086429000 Z
+:status: processed
+:score: 100.0
